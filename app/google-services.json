@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825871402339",
+    "project_id": "aularealtime-database",
+    "storage_bucket": "aularealtime-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825871402339:android:6667ec2f870ed3d78fff56",
+        "android_client_info": {
+          "package_name": "com.example.aularealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825871402339-g9kuk0qhdba2mm8279oopulif0e2oq0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs9mN4wtMEhqFxDPyQn7y0NVDKqnTD7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825871402339-g9kuk0qhdba2mm8279oopulif0e2oq0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
